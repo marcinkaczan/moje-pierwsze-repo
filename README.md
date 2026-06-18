@@ -1,3 +1,4 @@
+Tekst dodany na gałęzi feature/conflict-demo
 # Mój projekt DevOps
 
 ## Opis projektu
