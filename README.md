@@ -45,3 +45,7 @@ Ten plik `README.md` pełni rolę krótkiego opisu projektu. Dzięki niemu osoba
 ## Opis projektu
 
 Repozytorium testowe do nauki podstaw Git i GitHub.
+
+## Tymczasowy tekst do reset soft
+
+Ten tekst zostanie zapisany w commicie testowym.
