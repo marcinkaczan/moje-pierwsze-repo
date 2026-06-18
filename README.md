@@ -37,3 +37,7 @@ Ten plik `README.md` pełni rolę krótkiego opisu projektu. Dzięki niemu osoba
 ## Status projektu
 
 *Projekt edukacyjny — w trakcie realizacji.*
+
+## Opis projektu
+
+Repozytorium testowe do nauki podstaw Git i GitHub.
