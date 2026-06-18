@@ -1,4 +1,7 @@
+Po konflikcie zostają teraz w pliku obie zmiany:
 Tekst dodany na gałęzi main
+Tekst dodany na gałęzi feature/conflict-demo
+
 # Mój projekt DevOps
 
 ## Opis projektu
