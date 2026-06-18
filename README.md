@@ -1,3 +1,4 @@
+Tekst dodany na gałęzi main
 # Mój projekt DevOps
 
 ## Opis projektu
